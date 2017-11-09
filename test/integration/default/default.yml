@@ -22,5 +22,5 @@
   roles:
     # - ansible-influxdb
     # - ansible-telegraf
-    - ansible-grafana
+    # - ansible-grafana
     - ansible-kapacitor

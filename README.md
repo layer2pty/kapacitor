@@ -2,8 +2,8 @@ kapacitor
 ==============
 
 Ansible role to install and configure Kapacitor. You may also be interested in
-- [wunzeco.telegraf]
-- [wunzeco.influxdb]
+- [layer2pty.telegraf]
+- [layer2pty.influxdb]
 
 
 ## Example
